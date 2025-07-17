@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/houlong66-mns-mcp-server-badge.png)](https://mseep.ai/app/houlong66-mns-mcp-server)
+
 # MNS MCP Server
 
 MNS MCP Manager 是一个基于阿里云消息服务（MNS）的管理工具。通过 MCP 框架实现，用户可以通过 MCP Host 配置文件轻松集成并使用。
